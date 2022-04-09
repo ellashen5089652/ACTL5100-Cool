@@ -272,5 +272,5 @@ Overall, the team we selected has the expected probability of success of about 7
 ---
 
 > Feel free to see [report outline](group outline_group cool.docx), [full report](Team Cool_Report of Construction of the Competitive national football team for Rarita.docx), [team selected and corresponding costs](team-selected.csv), and [R codes for project](Team Cool_codes_RMarkdown.Rmd).
-> ![](/Users/yifanxiao/Desktop/thanks.gif)
+![](/Users/yifanxiao/Desktop/thanks.gif)
 
